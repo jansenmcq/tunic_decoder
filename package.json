@@ -1,0 +1,29 @@
+{
+  "name": "tunic_decoder",
+  "version": "1.0.0",
+  "description": "Project to help translate the written language in the 2022 game Tunic",
+  "main": "index.js",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "nuxt": "^3.8.2",
+    "vue": "^3.3.10",
+    "vue-router": "^4.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jansenmcq/tunic_decoder.git"
+  },
+  "author": "jmcquivey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jansenmcq/tunic_decoder/issues"
+  },
+  "homepage": "https://github.com/jansenmcq/tunic_decoder#readme"
+}
