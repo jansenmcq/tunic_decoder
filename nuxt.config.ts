@@ -5,8 +5,8 @@ export default defineNuxtConfig({
     storage: {
       fileSystem: {
         driver: "fsLite",
-        path: "./public/letterFiles",
+        base: "./public/letterFiles",
       }
     }
-  }
+  },
 })

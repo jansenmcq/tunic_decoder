@@ -4,6 +4,7 @@
   "description": "Project to help translate the written language in the 2022 game Tunic",
   "main": "index.js",
   "scripts": {
+    "start": "npm run dev -- -o --host",
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
